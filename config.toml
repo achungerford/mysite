@@ -51,7 +51,7 @@ canonifyURLs = true
   socialShareReddit    = true
   socialShareLinkedin  = true
   socialShareStumbleupon = true
-  socialSharePinterest = true
+  # socialSharePinterest = true
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
@@ -186,7 +186,7 @@ canonifyURLs = true
     qq             = "" # User ID Number
   instagram        = "example"
   tumblr           = ""
-  twitter          = "example"
+  twitter          = "developerach"
   skype            = ""
   snapchat         = ""
   pinterest        = "example"
