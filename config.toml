@@ -19,7 +19,7 @@ canonifyURLs = true
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
   # I (Alex Hungerford) added this parameter below based on error message.
-  # ignorefiles          = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+  ignorefiles          = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
