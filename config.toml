@@ -1,7 +1,7 @@
 baseurl = "www.alexhungerford.com"
 languageCode = "en-us"
 title = "Alexander C. Hungerford"
-theme = "Alexander C. Hungerford"
+theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Alex Hungerford's web page."
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "Alexander C. Hungerford"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
   # I (Alex Hungerford) added this parameter below based on error message.
@@ -35,7 +35,7 @@ canonifyURLs = true
   # set to show or to hide categories in the sidebar
   showSidebarCategories = true
   # Sets Estimated Reading Time to appear in post headers
-  includeReadingTime   = true
+  includeReadingTime   = false
   # Sets the Favicon and Version for the site. Default support is for
   # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
   # These are stored in the favicon folder. See the following for more information:
@@ -51,7 +51,7 @@ canonifyURLs = true
   socialShareReddit    = true
   socialShareLinkedin  = true
   socialShareStumbleupon = true
-  # socialSharePinterest = true
+  socialSharePinterest = false
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
