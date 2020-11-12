@@ -1,7 +1,7 @@
 baseurl = "www.alexhungerford.com/"
 languageCode = "en-us"
 title = "Alexander C. Hungerford"
-theme = "hugo-future-imperfect"
+theme = "Alexander C. Hungerford"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
